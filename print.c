@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("GitHub\n");
-	printf("GitHub\n");
+	for (int i = 0; i < 3; ++i)
+		printf("GitHub\n");
 	return 0;
 }
