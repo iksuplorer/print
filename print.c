@@ -4,5 +4,6 @@ int main(void)
 	printf("GitHub\n");
 	printf("GitHub\n");
 	printf("GitHub\n");
+	printf("GItHub\n");
 	return 0;
 }
