@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("GitHub\n");
-	printf("GitHub\n");
+	printf("GitHub1\n");
+	printf("GitHub1\n");
 	return 0;
 }
